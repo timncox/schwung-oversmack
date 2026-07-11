@@ -4,7 +4,7 @@ Distribution repo for **Oversmack** — the full-surface overtake build of
 [Smack](https://github.com/timncox/schwung-smack), a loop glitcher for the
 Ableton Move running [schwung](https://github.com/charlesvestal/schwung).
 
-Oversmack reads the mic/line input, captures clock-quantized loops, and
+Oversmack reads Move's selected audio input (mic, line, or USB-C), captures clock-quantized loops, and
 turns the whole Move surface into a step-FX editor: steps show the sliced
 pattern and select a slice, the upper pad rows are a 22-effect palette
 (pins survive Re-Roll), the bottom row is transport, and the Play button
